@@ -1,3 +1,6 @@
+#Use python -i turtle_race.py
+#Alexander Weismann
+
 import time
 from turtle import *
 from random import randint, choice
